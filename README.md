@@ -17,6 +17,5 @@ Frontend developer & Digital marketer
 [![codewars](https://www.codewars.com/users/DeoZ/badges/small)](https://www.codewars.com/users/DeoZ) 
 
 ---
-:technologist:Currently looking for a good job in dev
 
 My contacts on the left.:arrow_left: Favs projects there.:arrow_down:
