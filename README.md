@@ -1,5 +1,5 @@
 <h1 align="center">Nice to see you! :handshake:</h1>
-<h3 align="center">I`m <a href="https://frontden.com/" target="_blank">Aleksey Denisov</a>
+<h3 align="center">I`m <a href="mailto:deoz@yandex.ru" target="_blank">Aleksey Denisov</a>
   
 Frontend developer
 
