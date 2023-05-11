@@ -1,7 +1,7 @@
 <h1 align="center">Nice to see you! :handshake:</h1>
 <h3 align="center">I`m <a href="https://frontden.com/" target="_blank">Aleksey Denisov</a>
   
-Frontend developer & Digital marketer
+Frontend developer
 
 <img src="https://media.giphy.com/media/bx3Cvt88j7PtM4SOaS/giphy.gif" height="60"></h3>
 
