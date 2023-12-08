@@ -18,4 +18,4 @@ Frontend developer
 
 ---
 
-My contacts on the left.:arrow_left: Favs projects there.:arrow_down:
+My contacts on the left. ↩ Favs projects there.⬇️
